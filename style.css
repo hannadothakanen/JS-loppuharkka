@@ -1,0 +1,38 @@
+.vartalo
+{
+	-webkit-transform: rotate(100deg); -webkit-transition: 4s;
+}
+.paadivi
+{
+	background: #666666; width: 700px;height: 700px; overflow: hidden; margin:50px;
+}
+#osa1
+{
+	background-color: #b3b3b3; width: 600px;height: 200px; margin-left: 10%;margin-right: 10%;
+	position: relative; margin-top: 10%; position: relative;
+
+}
+#osa2
+{
+	background-color: #b3b3b3; width: 262px; height: 300px; margin-left: 10%; position:relative;margin-top: 4%
+}
+#osa3
+{
+	background-color: #b3b3b3; width: 262px; height: 300px; position:relative;margin-top: 4%
+}
+#txtboxjanappi
+{
+	margin-left:150px; margin-top: 80px;
+}
+.paadivi img
+{
+	height: 260px; width: 260px;
+}
+#ilmestynyt
+{
+	background-color: blue; color:white; text-align: center; margin :10px;
+}
+#ilmestynyt2
+{
+	color:black; text-align: center; margin :10px;
+}
